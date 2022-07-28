@@ -1,0 +1,10 @@
+Q4.Describe the best project you have worked on, including links if any
+
+Ans.This is a web development based project that has been developed using HTML/CSS/Java Script. The major objective of this project is to help
+    to provide notes and study materials for B.Tech students of SRM Institute of Science and Technology. Also, this site provides useful tools like CGPA and SGPA calculator and more.
+    (www.snhrepublic.com)
+
+Q5.If you are to start a software company, name 2 people from your batch whom you will choose as your partner and why?
+
+Ans. I would choose Priyansh Bajaj and Gaurav Shukla as my partners since they are both extremely brilliant software engineers with whom I have previously collaborated.
+ They are well-organized individuals who know how to prioritize their work very efficiently. They are Individual as well as team performers.
